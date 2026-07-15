@@ -107,5 +107,3 @@ CREATE TABLE clean.applications (
     days_to_hire     INT                    -- derived: hire_date - applied_date, added during cleaning
 );
 
-
-
